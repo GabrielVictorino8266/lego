@@ -1,6 +1,6 @@
 # Lego | Kit Robótica Educacional
 
-![](./.github/previewVM.png)
+![previewVM](./.github/previewVM.png)
 
 Projetos desenvolvidos durante o curso de Robótica da Visual Mídia, em conjunto do professor [👨‍🏫Caio](https://github.com/koiti13).
 
