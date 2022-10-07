@@ -1,0 +1,9 @@
+# Lego Genius
+
+![](./.github/geniusInicio.png)
+
+Projetos desenvolvidos durante o curso de Robótica da Visual Mídia, no nível Genius, dedicado ao aprendizado de robótica e programação para crianças.
+
+## 🛠 Tecnologias
+
+- WeDo 2.0
